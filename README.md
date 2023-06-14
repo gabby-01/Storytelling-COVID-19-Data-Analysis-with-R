@@ -7,7 +7,8 @@ The COVID-19 Data Analysis project utilizes R, Python and Tableau. The project a
 **Objectives**:
 * To conduct data exploration in order to understand the structure of the dataset by using R programming language.
 * To perform data preprocessing using R progamming language to clean, transform, and enhance the quality of the data for the improvement of accuracy in further analysis.
-* To generate questions based on the community problems of COVID-19 and provide comprehensive reports for each question involving the four types of data analysis: descriptive, diagnostic, predictive, and prescriptive. 
+* To coduct data visualisation on the generated questions of community problems of COVID-19 by using R programming language
+* To provide comprehensive interpretation of reports for each question, encompassing the four types of data analysis: descriptive, diagnostic, predictive, and prescriptive.
 
 # Dataset
 * **Dataset**: [owid-covid-data](https://docs.google.com/spreadsheets/d/1y54iWRwsC_IvG4-lsCgjU4aW8DrSKVf_/edit?usp=share_link&ouid=103544631015385382299&rtpof=true&sd=true)
