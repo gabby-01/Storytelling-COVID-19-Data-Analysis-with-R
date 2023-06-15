@@ -1,14 +1,14 @@
 # Introduction
-The COVID-19 Data Analysis project utilizes R, Python and Tableau. The project analyzes the "Coronavirus (COVID-19) Deaths" dataset obtained from the [Our World in Data](https://ourworldindata.org/covid-deaths). Our World in Data is a public resource that provides open access to its data for the public and policymakers.
+The COVID-19 Data Analysis project utilizes R programming language. The project analyzes the "Coronavirus (COVID-19) Deaths" dataset obtained from the [Our World in Data](https://ourworldindata.org/covid-deaths). Our World in Data is a public resource that provides open access to its data for the public and policymakers.
 
 # Aim & Objectives
-**Aim**: To analyze COVID-19 dataset and gain insights into the current trends and patterns of the disease across different countries in order to provide meaningful recommendations, policies, interventions, and strategies aimed at reducing the impact of the disease and protecting public health.
+**Aim**: To analyze the COVID-19 dataset and gain insights into the current trends and patterns of the disease across different countries in order to provide meaningful recommendations, policies, interventions, and strategies aimed at reducing the impact of the disease and protecting public health.
 
 **Objectives**:
 * To conduct data exploration in order to understand the structure of the dataset by using R programming language.
-* To perform data preprocessing using R progamming language to clean, transform, and enhance the quality of the data for the improvement of accuracy in further analysis.
-* To coduct data visualisation on the generated questions of community problems of COVID-19 by using R programming language.
-* To provide comprehensive interpretation of the visualisations for each question, encompassing the four types of data analysis: descriptive, diagnostic, predictive, and prescriptive.
+* To perform data preprocessing using R programming language to clean, transform, and enhance the quality of the data for the improvement of accuracy in further analysis.
+* To conduct data visualisation on the generated questions of community problems of COVID-19 by using R programming language.
+* To provide a comprehensive interpretation of the visualisations for each question, encompassing the four types of data analysis: descriptive, diagnostic, predictive, and prescriptive.
 
 # Dataset
 * **Dataset**: [owid-covid-data](https://docs.google.com/spreadsheets/d/1y54iWRwsC_IvG4-lsCgjU4aW8DrSKVf_/edit?usp=share_link&ouid=103544631015385382299&rtpof=true&sd=true)
@@ -59,14 +59,14 @@ The following descriptions of the 67 variables in the dataset:
 |39|new_vaccinations|The number of new COVID-19 vaccine doses that have been administered|
 |40|new_vaccinations_smoothed|7-days rolling average of the number of new COVID-19 vaccine doses that have been administered|
 |41|total_vaccinations_per_hundred|Total number of COVID-19 vaccination doses administered per 100 people|
-|42|people_vaccinated_per_hundred|Total number of people who have received at least one dose of a COVID=19 vaccine per hundred people|
+|42|people_vaccinated_per_hundred|Total number of people who have received at least one dose of a COVID-19 vaccine per hundred people|
 |43|people_fully_vaccinated_per_hundred|Total number of people who have received all required doses of a COVID-19 vaccine per hundred people|
 |44|total_boosters_per_hundred|Total number of COVID-19 booster doses administered per 100 people|
 |45|new_vaccinations_smoothed_per_million|7-days rolling average of the number of new COVID-19 vaccine doses that have been administered per million people|
 |46|new_people_vaccinated_smoothed|7-days rolling average of the number of new people who have received at least one dose of a COVID-19 vaccine|
 |47|new_people_vaccinated_smoothed_per_hundred|7-days rolling average of the number of new people who have received at least one dose of a COVID-19 vaccine per 100 people|
 |48|stringency_index|Composite measure of the strictness or severity of COVID-19 containment policies|
-|49|population_density|Number of people per squre kilometer of land area|
+|49|population_density|Number of people per square kilometre of land area|
 |50|median_age|Median age of the population|
 |51|aged_65_older|The percentage of the population aged 65 years and older|
 |52|aged_70_older|The percentage of the population aged 70 years and older|
@@ -84,4 +84,4 @@ The following descriptions of the 67 variables in the dataset:
 |64|excess_mortality_cumulative_absolute|The absolute number of excess deaths in a location since the beginning of the pandemic|
 |65|excess_mortality_cumulative|The percentage increase in mortality in a location since the beginning of the pandemic|
 |66|excess_mortality|The percentage increase in mortality in a location during a particular period of time|
-|67|excess_morality_cumulative_per_million|The number of excess deaths per million people in a location since the beginnng of the pandemic|
+|67|excess_morality_cumulative_per_million|The number of excess deaths per million people in a location since the beginning of the pandemic|
