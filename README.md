@@ -85,3 +85,43 @@ The following descriptions of the 67 variables in the dataset:
 |65|excess_mortality_cumulative|The percentage increase in mortality in a location since the beginning of the pandemic|
 |66|excess_mortality|The percentage increase in mortality in a location during a particular period of time|
 |67|excess_morality_cumulative_per_million|The number of excess deaths per million people in a location since the beginning of the pandemic|
+
+# Processed Dataset
+* **Dataset**:  [owid-covid-data (processed data)](https://docs.google.com/spreadsheets/d/1ErhY8Z2vigtF4S-cP_INl90mrSTSTPge/edit?rtpof=true#gid=1188884259)
+* **Description**: The dataset has been meticulously processed, involving data reduction, data cleaning, and data transformation techniques. By undergoing these procedures, the dataset is now optimized for accurate and meaningful analysis.
+
+The dataset consisted of the following 30 variables:
+
+|No|Variables|Description|
+|--|---------|-----------|
+|1|continent|Continent in which the country/region is located|
+|2|country|Name of the country/region|
+|3|date|Date in format yyyy/mm/dd|
+|4|total_cases|Total number of confirmed COVID-19 cases|
+|5|new_cases|Number of new confirmed COVID-19 cases|
+|6|new_deaths|The number of new COVID-19 deaths|
+|7|reproduction_rate|Estimated average number of people who will contract COVID-19 from a single infected person|
+|8|new_tests|Number of new COVID-19 tests that have been administered|
+|9|positive_rate|The proportion of COVID-19 tests that have returned positive results|
+|10|tests_per_case|The number of COVID-19 tests that have been administered per confirmed case of COVID-19|
+|11|people_vaccinated|The total number of people who have received at least one dose of a COVID-19 vaccine|
+|12|people_fully_vaccinated|The total number of people who have received all required doses of a COVID-19 vaccine|
+|13|total_boosters|The total number of COVID-19 vaccine booster doses that have been administered|
+|14|new_vaccinations|The number of new COVID-19 vaccine doses that have been administered|
+|15|stringency_index|Composite measure of the strictness or severity of COVID-19 containment policies|
+|16|population_density|Number of people per square kilometre of land area|
+|17|median_age|Median age of the population|
+|18|aged_65_older|The percentage of the population aged 65 years and older|
+|19|aged_70_older|The percentage of the population aged 70 years and older|
+|20|gdp_per_capita|Gross Domestic Product (GDP) per capita in current US dollars|
+|21|extreme_poverty|The percentage of the population living in extreme poverty|
+|22|cardiovasc_death_rate|The age-standardized death rate from cardiovascular disease|
+|23|diabetes_prevalence|The percentage of the population aged 20-79 years with diabetes|
+|24|female_smokers|The percentage of women who smoke|
+|25|male_smokers|The percentage of men who smoke|
+|26|handwashing_facilities|The percentage of the population with access to basic handwashing facilities|
+|27|hospital_beds_per_thousand|The number of hospital beds per thousand population|
+|28|life_expectancy|The life expectancy at birth of the population|
+|29|human_development_index|Rank countries based on their levels of human development|
+|30|population|The total population in a particular location|
+
