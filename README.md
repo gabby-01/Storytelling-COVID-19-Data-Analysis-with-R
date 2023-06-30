@@ -8,7 +8,7 @@ The COVID-19 Data Analysis project utilizes R programming language. The project 
 * To conduct data exploration in order to understand the structure of the dataset by using R programming language.
 * To perform data preprocessing using R programming language to clean, transform, and enhance the quality of the data for the improvement of accuracy in further analysis.
 * To conduct data visualisation on the generated questions of community problems of COVID-19 by using R programming language.
-* To provide a comprehensive interpretation of the visualisations for each question, encompassing the four types of data analysis: descriptive, diagnostic, predictive, and prescriptive.
+* To provide a comprehensive interpretation of the visualisations for each question by translating data analyses into understandable terms.
 
 # Dataset
 * **Dataset**: [owid-covid-data](https://docs.google.com/spreadsheets/d/1y54iWRwsC_IvG4-lsCgjU4aW8DrSKVf_/edit?usp=share_link&ouid=103544631015385382299&rtpof=true&sd=true)
