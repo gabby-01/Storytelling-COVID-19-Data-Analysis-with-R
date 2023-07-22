@@ -90,7 +90,7 @@ The following descriptions of the 67 variables in the dataset:
 * **Dataset**:  [owid-covid-data (processed data)](https://docs.google.com/spreadsheets/d/1ErhY8Z2vigtF4S-cP_INl90mrSTSTPge/edit?rtpof=true#gid=1188884259)
 * **Description**: The dataset has been meticulously processed, involving data reduction, data cleaning, and data transformation techniques. By undergoing these procedures, the dataset is now optimized for accurate and meaningful analysis.
 
-The dataset consisted of the following 30 variables:
+The processed dataset consisted of the following 30 variables:
 
 |No|Variables|Description|
 |--|---------|-----------|
