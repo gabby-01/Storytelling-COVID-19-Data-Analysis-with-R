@@ -5,9 +5,9 @@ The COVID-19 Data Analysis project utilizes R programming language. The project 
 **Aim**: To analyze the COVID-19 dataset and gain insights into the current trends and patterns of the disease across different countries in order to provide meaningful recommendations, policies, interventions, and strategies aimed at reducing the impact of the disease and protecting public health.
 
 **Objectives**:
-* To conduct data exploration in order to understand the structure of the dataset by using R programming language.
-* To perform data preprocessing using R programming language to clean, transform, and enhance the quality of the data for the improvement of accuracy in further analysis.
-* To conduct data visualisation on the generated questions of community problems of COVID-19 by using R programming language.
+* To conduct data exploration to understand the structure of the dataset.
+* To perform data preprocessing to clean, transform, and enhance the quality of the data for the improvement of accuracy in further analysis.
+* To conduct data visualisation on the generated questions of community problems of COVID-19.
 * To provide a comprehensive interpretation of the visualisations for each question by translating data analyses into understandable terms.
 
 # Dataset
